@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.amena","c":"Calc","l":"Calc()","u":"%3Cinit%3E()"},{"p":"com.amena","c":"Calc","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
